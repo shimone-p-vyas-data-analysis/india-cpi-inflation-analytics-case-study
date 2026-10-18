@@ -56,3 +56,10 @@ Comprehensive Excel Analytics Project on India's Consumer Price Index Inflation.
 - Year-on-Year increase % :  **`Average Annual Inflation of the current year - Average Annual Inflation of the previous year / Average Annual Inflation of the previous year`**
 - **2022** showcased the highest inflation of about **6.62%** in the Rural+Urban Sector.
 
+## Months indicating highest inflation, deflation : May 2022 - Dec 2022
+![Monthly inflation and deflation](04-mom-inflation-deflation-peak.png)
+![Food sub categories individual contributions](05-food-breakdown-sub-categories.png)
+
+- Month-on-Month inflation and deflation % : **`Inflation of the current month - Inflation of the previous year / Inflation of the previous month`**
+- **June** experienced the highest food **inflation** of **1.03%** and **December** a **deflation** of **-0.58%** in the Rural+Urban Sector.
+- After adding up all the Month-on-Month inflation percentages across the narrow individual categories, **Spices** turned out to be the biggest individual contributor with **16.6%** followed by **Cereals and Products** with **12.09%** primarily due to **erratic monsoons** and **soaring temperatures of 42°C - 46°C**.
