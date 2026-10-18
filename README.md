@@ -39,3 +39,20 @@ Comprehensive Excel Analytics Project on India's Consumer Price Index Inflation.
 | **5. `food-breakdown-sub-categories.png`** | **Spices** contributing upto **16.6%**, is the largest within the Food category |
 | **6. `correlation-icon-set-classification.png`** | Calculation of Correlation for the Imported Crude Oil Prices with all the sub-categories |
 | **7. `strong-correlation-scatterplot.png`** | Strong Correlation of **0.77** between the Imported Crude Oil Prices and the Meat and Fish category |
+
+## Highest contribution within the broader categories : May 2023
+![Annual food contribution](01-food-contribution.png)
+
+- The contributions of each of the broader categories were calculated by dividing their respective values with the summation of all the rest of the categories.
+- For the Food Category: **`Food category value / sum of all categories`**
+-  The **Food category** had the highest/most significant contribution upto half **(49.56%)** towards the CPI calculation across all the three sectors.
+-  **Spices, Meat and Fish** were the underlying driving factors having inflation rates of **9.23% to 9.65%**.
+
+## Year that depicted the highest inflation : 2017 - 2023
+![Annual inflation growth rate](02-yoy-inflation.png)
+![Annual peak inflation](03-yoy-inflation-peak.png)
+
+- Average Annual Inflations were computed by averaging the General Index values over the period of 12 months.
+- Year-on-Year increase % :  **`Average Annual Inflation of the current year - Average Annual Inflation of the previous year / Average Annual Inflation of the previous year`**
+- **2022** showcased the highest inflation of about **6.62%** in the Rural+Urban Sector.
+
