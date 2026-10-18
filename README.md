@@ -84,3 +84,12 @@ Comprehensive Excel Analytics Project on India's Consumer Price Index Inflation.
 - Domestic diesel costs skyrocketed by **85%** due to India's Crude Oil imports. This caused inflations around **refrigerated trucks** that were rushing **perishable Fish and Meat** to the processing industries.
 - Diesel expenses for the functioning of **Poultry farm machinery**, **milling feed** and **bird transportations**, thereby inflating **Chicken and Egg prices**.
 
+## Excel Capabilities and Skills
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts : Pie, Line with Markers, 3-D Stacked Column, Scatterplot 
+- Excel formulae : Multi-Horizon time-series - Year on Year, Month on Month calculations
+- Data wrangling : Data cleaning, Data re-structuring, Data categorization
+- Data Analysis and Insights : Data Analytics, Diagnostic Analysis, Exploratory Data Analysis (EDA), Bivariate, Macroeconomic
+- Data Visualization : Vivid and streamlined summaries
+
