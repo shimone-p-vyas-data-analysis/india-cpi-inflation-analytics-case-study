@@ -82,7 +82,7 @@ Comprehensive Excel Analytics Case Study on India's Consumer Price Index Inflati
 - This was graphically depicted through a Scatterplot. A trendline was added along with the R² equation.
 - **`The correlation co-efficient (r) : the square root of the R² value`**.
 - Domestic diesel costs skyrocketed by **85%** due to India's Crude Oil imports. This caused inflations around **refrigerated trucks** that were rushing **perishable Fish and Meat** to the processing industries.
-- Diesel expenses for the functioning of **Poultry farm machinery**, **milling feed** and **bird transportations**, thereby inflating **Chicken and Egg prices**.
+- Diesel expenses for the functioning of **Poultry farm machinery**, **milling feed** and **bird transportations**, thereby inflating **Chicken prices**.
 
 ## Excel Capabilities and Skills
 - Microsoft Excel
