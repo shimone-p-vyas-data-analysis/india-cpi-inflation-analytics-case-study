@@ -63,3 +63,24 @@ Comprehensive Excel Analytics Project on India's Consumer Price Index Inflation.
 - Month-on-Month inflation and deflation % : **`Inflation of the current month - Inflation of the previous year / Inflation of the previous month`**
 - **June** experienced the highest food **inflation** of **1.03%** and **December** a **deflation** of **-0.58%** in the Rural+Urban Sector.
 - After adding up all the Month-on-Month inflation percentages across the narrow individual categories, **Spices** turned out to be the biggest individual contributor with **16.6%** followed by **Cereals and Products** with **12.09%** primarily due to **erratic monsoons** and **soaring temperatures of 42°C - 46°C**.
+
+## Correlation of various categories with Imported Crude Oil Prices : 2021 - 2023
+![Icon sets and conditional bifurcation of correlation values](06-correlation-icon-set-classification.png)
+
+- Correlation bifurcation criteria was preset by utilizing **`icon sets`**.
+
+| Value | Type of Correlation |
+| :--- | :--- |
+| **`0.00 - 0.25`** | Weak |
+| **`0.26 - 0.74`** | Moderate |
+| **`0.75 - 1.00`** | Strong |
+- Correlation values of the Imported Crude Oil Prices with the remaining categories were generated using **`correl()`**, **`nestedif`** formulae.
+
+## Strong Correlation of Imported Crude Oil Prices, Meat and Fish Category
+![Strong correlation of Meat and Fish vs Imported Crude Oil](07-strong-correlation-scatterplot.png)
+- Strong Correlation of the Imported Crude Oil Prices with Meat and Fish was 0.77.
+- This was graphically depicted through a Scatterplot. A trendline was added along with the R² equation.
+- **`The correlation co-efficient (r) : the square root of the R² value`**.
+- Domestic diesel costs skyrocketed by **85%** due to India's Crude Oil imports. This caused inflations around **refrigerated trucks** that were rushing **perishable Fish and Meat** to the processing industries.
+- Diesel expenses for the functioning of **Poultry farm machinery**, **milling feed** and **bird transportations**, thereby inflating **Chicken and Egg prices**.
+
